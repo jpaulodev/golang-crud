@@ -4,7 +4,7 @@
 ---
 ```
 $ git clone git@github.com:jpauloeti/golang-crud.git
-$ cd golab5
+$ cd golang-crud
 $ go run .\main.go
 ```
 
